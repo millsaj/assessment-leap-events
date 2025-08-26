@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Custom Tailwind color variables (set in tailwind.config.js) */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
